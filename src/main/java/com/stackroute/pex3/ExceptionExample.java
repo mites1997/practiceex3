@@ -1,4 +1,7 @@
+
+//try catch example which goes to try catch and finally block
 package com.stackroute.pex3;
+
 
 public class ExceptionExample {
   public static void main(String args[])

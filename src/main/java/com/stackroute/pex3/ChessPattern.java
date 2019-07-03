@@ -1,4 +1,5 @@
 package com.stackroute.pex3;
+//chess pattern print
 
 public class ChessPattern {
   String[][] chess;

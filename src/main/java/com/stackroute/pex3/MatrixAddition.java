@@ -1,3 +1,5 @@
+
+//add two matrices and return the sum
 package com.stackroute.pex3;
 
 public class MatrixAddition {
